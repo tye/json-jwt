@@ -17,7 +17,7 @@ Gem::Specification.new do |gem|
   gem.add_runtime_dependency 'base64'
   gem.add_runtime_dependency 'bindata'
   gem.add_runtime_dependency 'aes_key_wrap'
-  gem.add_runtime_dependency 'faraday', '~> 2.0'
+  gem.add_runtime_dependency 'faraday', '1.10.3'
   gem.add_runtime_dependency 'faraday-follow_redirects'
   gem.add_development_dependency 'rake'
   gem.add_development_dependency 'simplecov'

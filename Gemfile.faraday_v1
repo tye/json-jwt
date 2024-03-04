@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
 gemspec
-gem 'faraday', '>= 2', '< 3'
+gem 'faraday', '>= 1', '< 2'
